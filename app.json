@@ -1,6 +1,6 @@
 {
-    "name": "xrayku",
-    "description": "xray websocket proxy on heroku",
+    "name": "Jing5460",
+    "description": "Jing5460",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
